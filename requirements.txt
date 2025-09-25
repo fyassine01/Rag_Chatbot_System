@@ -1,0 +1,13 @@
+streamlit
+groq
+PyPDF2
+sentence-transformers
+faiss-cpu
+numpy
+torch
+transformers
+chromadb
+openpyxl
+pandas
+weaviate-client
+xlrd>=2.0.1
